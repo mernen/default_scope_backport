@@ -1,0 +1,7 @@
+sqlite:
+  adapter: sqlite
+  dbfile: ":memory:"
+
+sqlite3:
+  adapter: sqlite3
+  dbfile: ":memory:"
