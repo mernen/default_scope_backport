@@ -13,6 +13,7 @@ Commits included:
 
 * <tt>2530d0eea8eaecd2c61f99225f050ff47973e9a0</tt> (2008-11-16)
 * <tt>32cb2345a54b9ab38461b2d4bb0dbd1706f2800e</tt> (2008-11-17)
+* <tt>c4023cbe206415cf3ca1ca92cd9980a4aa4aed00</tt> (2008-12-16)
 
 == Installation
 
